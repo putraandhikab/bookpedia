@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+.navbar-brand, .nav-item{
+	color: white;
+}
+
+a:hover{
+	color: black; 
+}
+
+.row{
+	margin-left: 80px;
+}
